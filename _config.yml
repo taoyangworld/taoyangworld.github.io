@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tao Yang"
-  avatar           : "images/photo.png"
+  avatar           : "images/photo-512.png"
   bio              : "UESTC"
   location         : "Chengdu, China"
   employer         : #"Hefei General Machinery Research Institute"
